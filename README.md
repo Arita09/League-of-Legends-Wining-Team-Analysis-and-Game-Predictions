@@ -15,8 +15,8 @@ For this project I used Python as main language, and Jupyter Notebook for IDEs; 
 
 - Presentation Slides
 
-Notebook #1 - Cleaning and Exploratory Data Analysis In this notebook, I loaded the raw dataset from the source, conducted data cleaning where applicable, and dived into exploratory data analysis to obtain insights from the data prior to preprocessing and modelling.
+- Notebook #1 - Cleaning and Exploratory Data Analysis In this notebook, I loaded the raw dataset from the source, conducted data cleaning where applicable, and dived into exploratory data analysis to obtain insights from the data prior to preprocessing and modelling.
 
-Notebook #2 - Preprocessing In this notebook, I loaded the cleaned up and feature engineered dataset from Notebook #1, and transformed it to be model ready. 
+- Notebook #2 - Preprocessing In this notebook, I loaded the cleaned up and feature engineered dataset from Notebook #1, and transformed it to be model ready. 
 
-Tableau File - contains visuals created for the project.
+- Tableau File - contains visuals created for the project.
